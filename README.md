@@ -8,3 +8,4 @@
 ## Carrinho de Compras
     
     - Lista de produtos
+    - Preços dos produtos
