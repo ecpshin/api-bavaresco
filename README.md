@@ -2,7 +2,9 @@
 
 ## Página de Pesquisa de Produtos
 
-    -- Lista e Produtos por Categoria
+    - Acesso ao carrinho de compras
+    - Lista de Produtos por Categoria
 
 ## Carrinho de Compras
-    -- Lista de produtos
+    
+    - Lista de produtos
